@@ -27,7 +27,7 @@ body{
 .collapsible {
 background-color: #777;
 color: white;
-cursor: pointer;
+cursor: pointer:
 padding: 18px;
 width: 570px;
 height: 45px;
@@ -50,7 +50,7 @@ font-size: 15px;
   border-width: 0px 1px 0px 0px;
 }
 .active,			 
-.collapsible:hover {
+.collapsible: hover {
 background-color: red;
 }	
   collapsible p {
@@ -91,7 +91,7 @@ border-width: 0px 1px 1px 1px;
       text-align: left;
     padding-left: 35px;
 }
-  
+  }
   .collapsible i{
     font-size: 22px;
     display: block;
@@ -116,7 +116,7 @@ border-width: 0px 1px 1px 1px;
        }
     
 
-        
+     }   
 
 
 
@@ -477,7 +477,7 @@ section {
     height: 370px;
     width: 570px;
 }
-
+}
 
 
 
@@ -1773,7 +1773,7 @@ h2{
 .collapsible {
 background-color: #777;
 color: white;
-cursor: pointer;
+cursor: pointer:
 padding: 18px;
 width: 570px;
 height: 45px;
@@ -1796,7 +1796,7 @@ font-size: 15px;
   border-width: 0px 1px 0px 0px;
 }
 .active,			 
-.collapsible:hover {
+.collapsible: hover {
 background-color: red;
 }	
   collapsible p {
@@ -1847,6 +1847,9 @@ border-width: 0px 1px 1px 1px;
        collapsible i:hover{
            color:rgb(255,0,84);
        }
+     
+
+     }  
      
 
       
